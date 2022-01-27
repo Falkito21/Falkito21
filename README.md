@@ -1,7 +1,7 @@
 - 👋 Hola, mi nombre es Juan Falco
 - 👀 Estoy interesado en el desarrollo backend como fronted y tambien en ciberseguridad
 - 🌱 Actualmente estoy aprendiendo PHP y Java Script
-- 💞️ Busco colaborar desarrollos o proyectos que tengan que ver con desarrollo tanto backend como frontend
+- 💞️ Busco colaborar en desarrollos o proyectos que tengan que ver con desarrollo tanto backend como frontend
 - 📫 Me podes contactar enviandome un mail a: juan.falco21@gmail.com o entrando en el 
       siguiente link: https://awesome-nightingale-729dda.netlify.app/
 
