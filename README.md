@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy aprendiendo PHP y Java Script
 - 💞️ Busco colaborar en desarrollos o proyectos que tengan que ver con desarrollo tanto backend como frontend
 - 📫 Me podes contactar enviandome un mail a: juan.falco21@gmail.com o entrando en el 
-      siguiente link: https://awesome-nightingale-729dda.netlify.app/
+      siguiente link: https://eloquent-beaver-6fd6d7.netlify.app
 
 <!---
 Falkito21/Falkito21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
