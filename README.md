@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hola!! 👋</h1>
+<h1 align="center">Hola De ese Lado!! 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Mi nombre es Juan Asensio Falco. Soy de Mendoza pero hace un año me mude a a Bs As<br><br>- 🔭 Actualmente me encuentro desarrollando con NodeJs..<br>- 📚 Estudiante de la carrera de ciberseguridad en la universidad UFASTA.<br>- ⚡ En mi tiempo libre estoy aprendiendo el lenguaje de Rust. Pienso y creo que sera un lenguaje con mucho futuro.</p>
+<p align="left">Mi nombre es <b>Juan Asensio Falco</b>. Soy de Mendoza pero hace un año me mude a Bs As<br><br>- 🔭 Actualmente me encuentro desarrollando con NodeJs..<br>- 📚 Estudiante de la carrera de ciberseguridad en la universidad UFASTA.<br>- ⚡ En mi tiempo libre estoy aprendiendo el lenguaje de Rust. Pienso y creo que sera un lenguaje con mucho futuro.</p>
 
 ###
 
@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo" />
   <img width="12" />
 </div>
 
